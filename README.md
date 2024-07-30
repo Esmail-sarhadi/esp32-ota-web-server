@@ -1,4 +1,4 @@
-# 📶 ESP32 OTA Update with Web Server
+ # 📶 ESP32 OTA Update with Web Server
 
 This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates using a web server. The ESP32 connects to a specified Wi-Fi network and hosts a web interface for uploading new firmware. The web interface includes a login page and an upload page, making it easy to update the firmware wirelessly.
 
