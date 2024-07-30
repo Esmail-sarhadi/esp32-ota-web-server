@@ -9,7 +9,7 @@ This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates 
 - [🔧 Code Explanation](#code-explanation)    
 - [🐞 Troubleshooting](#troubleshooting)    
 - [🤝 Contributing](#contributing)      
-- [📄 License](#license)   
+- [📄 License](#license)    
   
 ## ⚙️ Installation
 
