@@ -10,7 +10,7 @@ This project demonstrates how to set up an ESP32 for Over-The-Air (OTA) updates 
 - [🐞 Troubleshooting](#troubleshooting)  
 - [🤝 Contributing](#contributing)  
 - [📄 License](#license)  
-
+ 
 ## ⚙️ Installation
 
 To set up this project, you need to have the Arduino IDE installed along with the ESP32 board support. You can install the necessary libraries using the Library Manager in the Arduino IDE.
