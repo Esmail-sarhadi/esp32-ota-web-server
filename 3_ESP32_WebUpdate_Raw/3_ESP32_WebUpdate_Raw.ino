@@ -6,16 +6,9 @@
 
 const char* host = "MyESP32";
 const char* ssid = "..........";
-const char* password = "..........";
+const char* password = ".........."
 
 
-
-
-
-
-
-
-      
 WebServer server(80);
 //***************************************************************************************************
 /* Style */
